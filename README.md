@@ -1,5 +1,7 @@
 # Node.js Website Project Documentation
 
+### To run it , Clone this repository-> in the `.env` file inside `config` folder , write your env variables -> write `npm install` in your terminal -> npm index.js 
+
 ## Table of Contents
 
 1. [Models](#models)
