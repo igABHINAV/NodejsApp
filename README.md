@@ -171,5 +171,3 @@
 - **Description:** The entry point to start the server.
 - Connects to the database using `connectDB()` from the `Database.js` configuration.
 - Starts the Express app and listens on the specified port.
-
-This revised documentation provides a detailed overview of the different components and functionality of your Node.js website project, excluding the "Introduction" and "Project Overview" sections
